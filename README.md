@@ -1,4 +1,4 @@
-Installation instructions
-# run `npm install http-server -g` from your commandline
-# then run `http-server` from the command line
-# in your browser visit http://localhost:8080
+# Installation instructions
+1. run `npm install http-server -g` from your commandline
+2. then run `http-server` from the command line
+3. in your browser visit http://localhost:8080
